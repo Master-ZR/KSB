@@ -316,5 +316,6 @@ function Updated(mutationsList, observer) {
     }
 }
 kaoshibao.start()
-
+// kaoshibao.downloadJson()
+// kaoshibao.downloadTEXT()
 
